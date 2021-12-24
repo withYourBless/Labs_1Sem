@@ -1,4 +1,6 @@
 #include <stdio.h>
+#define max 1
+#define min -77
 
 int main() {
     int digit, result;
