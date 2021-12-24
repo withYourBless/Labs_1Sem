@@ -3,7 +3,7 @@
 
 int main() {
     unsigned digit16
-    unsigned digit162
+    unsigned digit162;
     unsigned digit;
     unsigned OperationOr;
     printf("Введите число в шестнадцатиричной системе(начиная с 0х): ");
