@@ -1,6 +1,4 @@
 #include <stdio.h>
-#define max 1
-#define min -77
 
 int main() {
     int digit, result;
@@ -13,3 +11,6 @@ int main() {
     scanf("%d", &digit2);
     result = (digit2 >> (18 - 1)) & 1;
     printf("В 18-ом месте числа %d бит %d", digit2, result);
+
+    return 0;
+}
