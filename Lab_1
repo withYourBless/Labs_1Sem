@@ -12,5 +12,5 @@ int main() {
     printf("Вы ввели слово: ");
 printf("%s", text);
 
-return 0
+return 0;
 }
