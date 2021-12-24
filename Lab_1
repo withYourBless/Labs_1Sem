@@ -2,7 +2,7 @@
 #include <math.h>
 
 int main() {
-    unsigned digit16
+    unsigned digit16;
     unsigned digit162;
     unsigned digit;
     unsigned OperationOr;
